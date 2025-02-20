@@ -19,6 +19,7 @@
 </p>
 
 Let
+
 $$
 \begin{array}{lll}
   a=38.0 & b=41.5 & c=39.3 & d=40.1 & e=55.8\\
@@ -26,8 +27,9 @@ $$
   k=61.9 & l=7.8 & m=15.0 & & \\
 \end{array}
 $$
-These numbers are called "Holy Numbers".
-Then
+
+These numbers are called "Holy Numbers". Then
+
 $$
 \begin{eqnarray*}
     \overrightarrow{\mathrm{OA}} &=& \begin{bmatrix}m
@@ -46,7 +48,9 @@ $$
     \right]
 \end{eqnarray*}
 $$
+
 where
+
 $$
 \begin{eqnarray*}
     \alpha &=& \arctan2\left(\mathrm{A}_y-\mathrm{B}_y, \mathrm{A}_x-\mathrm{B}_x\right)\\
